@@ -202,7 +202,6 @@
                 "--with-readline",
                 "--with-sodium",
                 "--with-sqlite3",
-                "--with-xmlrpc",
                 "--with-xsl",
                 "--with-zip",
                 "--with-zlib"
