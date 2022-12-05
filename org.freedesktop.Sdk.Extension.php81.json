@@ -104,8 +104,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://libzip.org/download/libzip-1.8.0.tar.xz",
-                    "sha256": "f0763bda24ba947e80430be787c4b068d8b6aa6027a26a19923f0acfa3dac97e",
+                    "url": "https://libzip.org/download/libzip-1.9.2.tar.xz",
+                    "sha256": "c93e9852b7b2dc931197831438fee5295976ee0ba24f8524a8907be5c2ba5937",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 10649,
@@ -213,8 +213,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://www.php.net/distributions/php-8.1.5.tar.xz",
-                    "sha256": "7647734b4dcecd56b7e4bd0bc55e54322fa3518299abcdc68eb557a7464a2e8a",
+                    "url": "https://www.php.net/distributions/php-8.1.13.tar.xz",
+                    "sha256": "b15ef0ccdd6760825604b3c4e3e73558dcf87c75ef1d68ef4289d8fd261ac856",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://www.php.net/releases/index.php?json&version=8.1&max=1",
@@ -239,8 +239,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.21.tar.gz",
-                    "sha256": "6406376c069fd8e51cd470bbb38d809dee7affbea07949b2a973c62ec70bd502",
+                    "url": "https://github.com/krakjoe/apcu/archive/v5.1.22.tar.gz",
+                    "sha256": "dfd3e1df434fe84439da499e06d0857fd06dea5572df910d830b1d6474393b08",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 11010,
@@ -274,8 +274,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://xdebug.org/files/xdebug-3.1.4.tgz",
-                    "sha256": "4195926f9f6c4e802ff749bb2ca85ac50636719a72e5389e372e35ef523505f9",
+                    "url": "https://xdebug.org/files/xdebug-3.1.5.tgz",
+                    "sha256": "55f6ef381245da079b2fc5ce1cfbcb7961197d0c0e04f9d977613cf9aa969a79",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 13302,
@@ -304,8 +304,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://getcomposer.org/download/2.3.5/composer.phar",
-                    "sha256": "3b3b5a899c06a46aec280727bdf50aad14334f6bc40436ea76b07b650870d8f4",
+                    "url": "https://getcomposer.org/download/2.4.2/composer.phar",
+                    "sha256": "8fe98a01050c92cc6812b8ead3bd5b6e0bcdc575ce7a93b242bde497a31d7732",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 9710,
@@ -324,8 +324,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://github.com/phar-io/phive/releases/download/0.15.1/phive-0.15.1.phar",
-                    "sha256": "dfd3804452a20bca40c1c8e5f7a2cd0f470bc442c43f256c890990becc467bb0",
+                    "url": "https://github.com/phar-io/phive/releases/download/0.15.2/phive-0.15.2.phar",
+                    "sha256": "2bb076753ec5d672f5e2f96a97a0fe7e8e9ec24a439eed00fd29ef942c7905f9",
                     "dest-filename": "phive.phar",
                     "x-checker-data": {
                         "type": "anitya",

@@ -21,7 +21,7 @@ Includes
 
 Each Flatpak can have its own custom php configuration files.
 e.g. for Visual Studio Code
-`~/.var/app/com.visualstudio.code/config/php/7.4/ini/my-custom.ini` or `/var/config/php/7.4/ini/my-custom.ini` from a sandboxed shell.
+`~/.var/app/com.visualstudio.code/config/php/8.1/ini/my-custom.ini` or `/var/config/php/8.1/ini/my-custom.ini` from a sandboxed shell.
 
 Global composer installs are limited to the Flatpak they were installed in.
 
